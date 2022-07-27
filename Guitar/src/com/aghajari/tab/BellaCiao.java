@@ -44,7 +44,7 @@ public class BellaCiao {
 
         return new Tablature()
                 .withListener((note, i) -> System.out.println(note))
-                .add(0, 0, 3000)   // 1
+                .add(0, 0, 0)   // 1
                 .add(1, 3, gap)
                 .add(0, 0, gap)
                 .add(0, 1, gap + 20)
