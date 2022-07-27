@@ -9,7 +9,7 @@ public class Main {
         Guitar guitar = new Guitar(8000, 1);
         guitar.start();
 
-        Kooh.create().start(guitar);
+        BellaCiao.create().start(guitar);
 
         // Play Note
         /*
@@ -25,6 +25,7 @@ public class Main {
         */
 
         // Play Tablature
+        //BellaCiao.create().start(guitar);
         //Kooh.create().start(guitar);
         //DoPanjereh.create().start(guitar);
         //Sarnevesht.create().start(guitar);
