@@ -60,11 +60,14 @@ new Tablature()
         ...
         .start(guitar);
 ```
-<img src="https://user-images.githubusercontent.com/30867537/181081997-bfa895cc-788b-4413-a21d-9b73e4eacc5b.jpeg" height=500 title="Kooh-ShadmehrAghili">
+<img src="https://user-images.githubusercontent.com/30867537/181081997-bfa895cc-788b-4413-a21d-9b73e4eacc5b.jpeg" width=350 title="Kooh-ShadmehrAghili"><img src="https://user-images.githubusercontent.com/30867537/181219837-93be9c4e-1ad0-4077-8d7b-f1d607a59006.jpeg" width=350 title="BellaCiao">
 
 https://user-images.githubusercontent.com/30867537/181081719-ff58b732-1c61-4217-9fa3-9e8118af6866.mp4
 
+https://user-images.githubusercontent.com/30867537/181218528-7735e3a3-95de-4fa0-8cc2-6eef3bf93315.mov
+
 **See More:**
+- Bella Ciao
 - Sarnevesht - Shadmehr Aghili
 - Kooh - Shadmehr Aghili
 - Do Panjereh - Googoosh
@@ -79,6 +82,7 @@ Replace [`javax.sound.sampled`](https://docs.oracle.com/javase/7/docs/api/javax/
 - [Digital Synthesis of Plucked-String](https://users.soe.ucsc.edu/~karplus/papers/digitar.pdf)
 - [Guitar Frets & Their Notes vs Frequency](https://www.pinterest.com/pin/400257485634480639/)
 - [Kooh-ShadmehrAghili Guitar Tab](https://www.notdoni.com/music/11351/%D9%86%D8%AA-%D9%88-%D8%AA%D8%A8%D9%84%DA%86%D8%B1-%DA%AF%DB%8C%D8%AA%D8%A7%D8%B1-%D8%A2%D9%87%D9%86%DA%AF-%DA%A9%D9%88%D9%87-%D8%A7%D8%B2-%D8%B4%D8%A7%D8%AF%D9%85%D9%87%D8%B1-%D8%B9%D9%82%DB%8C%D9%84%DB%8C--%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A2%DA%A9%D9%88%D8%B1%D8%AF/)
+- [Bella Ciao Guitar Tab](https://www.notdoni.com/music/35032/%D9%86%D8%AA-%DA%AF%DB%8C%D8%AA%D8%A7%D8%B1-%D8%A8%D9%84%D8%A7%DA%86%D8%A7%D9%88-Bella-Ciao-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%AA%D8%A8%D9%84%DA%86%D8%B1-%D9%88-%D8%A2%DA%A9%D9%88%D8%B1%D8%AF-%D9%86%D8%B3%D8%AE%D9%87-%D8%B3%D8%A7%D8%AF%D9%87/)
 
 <br><br>
 <div align="center">
